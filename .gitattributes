@@ -1,0 +1,19 @@
+# Unity serializes these files as text so changes remain reviewable.
+/Assets/**/*.meta text eol=lf
+/Assets/**/*.unity text eol=lf
+/Assets/**/*.asset text eol=lf
+/Assets/**/*.cs text eol=lf
+/Assets/**/*.asmdef text eol=lf
+/ProjectSettings/*.asset text eol=lf
+/Packages/*.json text eol=lf
+
+# Preserve binary assets exactly.
+*.png binary
+*.aseprite binary
+*.ogg binary
+*.ttf binary
+*.woff binary
+*.wasm binary
+*.efkefc binary
+*.efkmodel binary
+*.rmmzsave binary

@@ -1,0 +1,27 @@
+Action,OriginalPath,CurrentPath
+MoveDirectory,HaGames/,Legacy/RPGMaker/HaGames/
+Move,assets/All_floor.aseprite,SourceArt/Environment/Tilesets/Shared/AllFloor.aseprite
+Move,assets/All_floor.png,Assets/_Game/Art/Environment/Tilesets/Shared/AllFloor.png
+Move,assets/All_wall..aseprite,SourceArt/Environment/Tilesets/Shared/AllWall.aseprite
+Move,assets/All_wall..png,Assets/_Game/Art/Environment/Tilesets/Shared/AllWall.png
+Move,assets/Ha_home.png,Assets/_Game/Art/Characters/Ha/Ha_Home.png
+Move,assets/Ha_school.png,Assets/_Game/Art/Characters/Ha/Ha_School.png
+Move,assets/Thu_school_new.png,Assets/_Game/Art/Characters/Thu/Thu_School.png
+Move,assets/kitchen_asset.aseprite,SourceArt/Environment/Tilesets/Home/KitchenProps.aseprite
+Move,assets/kitchen_asset.png,Assets/_Game/Art/Environment/Tilesets/Home/KitchenProps.png
+Move,assets/sky.png,Assets/_Game/Art/Environment/Backgrounds/Sky.png
+Move,assets/stair.png,Assets/_Game/Art/Environment/Tilesets/Home/Stairs.png
+Move,assets/wall.png,Assets/_Game/Art/Environment/Tilesets/Home/Walls.png
+Move,assets/wall2.png,Assets/_Game/Art/Environment/Tilesets/Home/WallsAlternate.png
+Move,tang1/kitchen_asset.aseprite,SourceArt/Archive/HomeGroundFloor/KitchenProps.aseprite
+Move,tang1/wall.aseprite,SourceArt/Archive/HomeGroundFloor/Walls.aseprite
+Move,tang1/wall2.aseprite,SourceArt/Archive/HomeGroundFloor/WallsAlternate.aseprite
+Move,mới 1.txt,Docs/Notes/MapUpdates_Draft.txt
+Move,mới 2.txt,Docs/Notes/Note_02.txt
+Move,ưpdate_Map.txt,Docs/Notes/MapUpdates.txt
+Move,README.md,Docs/History/OriginalREADME.md
+Copy,HaGames/img/characters/$HaCamChen_%(3).png,Assets/_Game/Art/Characters/Ha/LegacyExports/Ha_WashDishes.png
+Copy,HaGames/img/characters/$HaHome_%(8).png,Assets/_Game/Art/Characters/Ha/LegacyExports/Ha_Home_Walk.png
+Copy,HaGames/img/characters/$HaSchool_%(8).png,Assets/_Game/Art/Characters/Ha/LegacyExports/Ha_School_Walk.png
+Copy,HaGames/img/characters/$Ha_%(8).png,Assets/_Game/Art/Characters/Ha/LegacyExports/Ha_Base_Walk.png
+Copy,HaGames/img/characters/$ThuSchool_%(8).png,Assets/_Game/Art/Characters/Thu/LegacyExports/Thu_School_Walk.png
